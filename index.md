@@ -16,7 +16,7 @@ As our community grows, we are moving towards a broader conference format: ProbN
 
 ## Organising Committee
 
-- Motonobu Kanagawa
-- Jon Cockayne
-- Alexandra Gessner
-- Philipp Hennig
+- Motonobu Kanagawa (EURECOM)
+- Jon Cockayne (University of Southampton)
+- Alexandra Gessner (Astrazeneca)
+- Philipp Hennig (University of Tuebingen)
